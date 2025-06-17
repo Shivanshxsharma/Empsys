@@ -1,0 +1,21 @@
+*{
+
+
+    
+    font-family:sans-serif
+}
+button{
+    cursor: pointer;
+}
+#task-scroll::-webkit-scrollbar{
+display:none;
+}
+
+#admin::-webkit-scrollbar{
+display:none;
+}
+#task-panel::-webkit-scrollbar{
+display:none;
+scroll-behavior: smooth;
+}
+
